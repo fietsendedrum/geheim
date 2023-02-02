@@ -1,0 +1,16 @@
+.box{
+  height: 150px;
+  background-color: blue;
+  width: 150px;
+  border: 1px solid #eee;
+}
+.drum{
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+.box:hover{
+  color: red;
+  fill: red;
+  background-color: red;
+}
